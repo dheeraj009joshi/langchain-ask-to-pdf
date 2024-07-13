@@ -3,5 +3,6 @@ langchain
 streamlit
 faiss-cpu
 python-dotenv
+langchain_community
 openai
 tiktoken

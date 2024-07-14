@@ -13,7 +13,7 @@ import openai
 load_dotenv()
 
 # Set up the OpenAI API key
-openai_api_key = "sk-proj-aNNfNbMDDTZAw8jGTDnET3BlbkFJAquDOf8lrwHva61niNsd"  # Update your .env file with OPENAI_API_KEY
+openai_api_key = "sk-svcacct-Vhfp5Nn1bIn5gPOb1AahT3BlbkFJRTo7wZInLgx7Qt4sERKK"  # Update your .env file with OPENAI_API_KEY
 openai.api_key = openai_api_key
 
 # Constants
